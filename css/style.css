@@ -19,13 +19,10 @@
   list-style: none;
 }
 
-li {
-  list-style: none;
-}
-
 a {
   color: rgb(255, 255, 255);
   text-decoration: none;
+  font-weight: 600;
 }
 
 .nombresdelosproductos {
@@ -44,6 +41,7 @@ h2 {
   text-align: center;
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
 }
 
 h5 {
