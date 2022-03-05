@@ -1,34 +1,12 @@
-.logo {
-  background-color: black;
-  text-align: center;
-  padding: 1px;
-  list-style: none;
-}
-
 #footerfinal {
   background-color: rgb(56, 112, 177);
   padding: 1em 3px 30px 5px;
-}
-
-.lista {
-  color: rgb(255, 255, 255);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  text-decoration: none;
-  list-style: none;
 }
 
 a {
   color: rgb(255, 255, 255);
   text-decoration: none;
   font-weight: 600;
-}
-
-.nombresdelosproductos {
-  color: rgb(28, 122, 177);
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 13px;
 }
 
 .foter {
@@ -39,9 +17,9 @@ a {
 
 h2 {
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   font-family: Arial, Helvetica, sans-serif;
-  font-weight: 600;
+  font-weight: 750;
 }
 
 h5 {
@@ -87,28 +65,7 @@ header {
   top: 0;
   list-style: none;
 }
-.nav__list {
-  list-style: none;
-  justify-content: space-between;
-  align-items: center;
-  margin: 1%;
-  margin-left: 30%;
-  margin-right: 30%;
-  font-size: 20px;
-  list-style: none;
-  text-decoration: none;
-}
 
-.navlink {
-  color: black;
-  text-transform: uppercase;
-  text-decoration: none;
-  list-style: none;
-}
-.navlink:hover,
-.navlink:focus {
-  opacity: 0.65;
-}
 .maps {
   padding-left: 1em;
 }
@@ -138,4 +95,7 @@ header {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   font-size: 13px;
+}
+.videofaq {
+  text-align: center;
 }
