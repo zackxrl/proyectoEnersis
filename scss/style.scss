@@ -99,3 +99,13 @@ header {
 .videofaq {
   text-align: center;
 }
+
+@each $red, $color in $redes {
+  btn--#{rgb(0, 0, 0)} {
+    background-color: $color;
+  }
+}
+
+$redes: (
+  grupowh: blue,
+);
